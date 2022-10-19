@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T13:06:18.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="RUVZGOOo36FA8nOpCt_U" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T13:29:04.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="4vataSyIOJe_0embJr5Y" version="20.4.1" type="github">
   <diagram id="kbSdvPudLcJXdEKSjWj3" name="第 1 页">
     <mxGraphModel dx="1178" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="FoAXJZJZyae9qx9strcY-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="FoAXJZJZyae9qx9strcY-4" target="FoAXJZJZyae9qx9strcY-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FoAXJZJZyae9qx9strcY-4" value="oss存储" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="FoAXJZJZyae9qx9strcY-4" value="启用oss存储" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="117" y="267" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FoAXJZJZyae9qx9strcY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="FoAXJZJZyae9qx9strcY-8" target="FoAXJZJZyae9qx9strcY-9" edge="1">
@@ -91,7 +91,7 @@
         <mxCell id="FoAXJZJZyae9qx9strcY-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="FoAXJZJZyae9qx9strcY-39" target="FoAXJZJZyae9qx9strcY-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FoAXJZJZyae9qx9strcY-39" value="storageService&lt;br&gt;值为jrss" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="FoAXJZJZyae9qx9strcY-39" value="storageService&lt;br&gt;值为oss" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="117" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
