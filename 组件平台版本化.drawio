@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T07:38:06.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="20.8.1" etag="Sz58dc4OshQVwkFE-vCj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T09:04:54.077Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="20.8.1" etag="-9X6baZ7SvqNszyOrFU9" type="github">
   <diagram id="WVZTXQf4uHd_ZE8tJGdq" name="第 1 页">
-    <mxGraphModel dx="1434" dy="714" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="997" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,120 @@
         </mxCell>
         <mxCell id="DpwGyqs9rQuABFekmKVW-47" value="1.2 分支下所有tag发版号均为&amp;nbsp; v1.2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="296" y="756" width="204" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-49" target="DpwGyqs9rQuABFekmKVW-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-49" value="历史版本修复" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1291" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-50" target="DpwGyqs9rQuABFekmKVW-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-50" value="新功能迭代" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="1291" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-52" target="DpwGyqs9rQuABFekmKVW-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-52" value="切换至历史版本分支&lt;br&gt;release-v1.3" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1391" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-54" target="DpwGyqs9rQuABFekmKVW-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-54" value="基于master新建发版分支release-v2.3" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="1391" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-57" target="DpwGyqs9rQuABFekmKVW-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-57" target="DpwGyqs9rQuABFekmKVW-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-57" value="&lt;span style=&quot;&quot;&gt;当前版本 2.2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="303" y="1182" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-60" target="DpwGyqs9rQuABFekmKVW-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-60" value="查看所有tag&lt;br&gt;git tag" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-62" target="DpwGyqs9rQuABFekmKVW-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-62" value="切换至待修复版本最新的tag - v1.2.4&lt;br&gt;git checkout&amp;nbsp; v1.2.4" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1571" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-64" target="DpwGyqs9rQuABFekmKVW-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-64" value="代码修复&lt;br&gt;git commit" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1661" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-66" target="DpwGyqs9rQuABFekmKVW-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-66" value="测试完成" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1751" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-68" target="DpwGyqs9rQuABFekmKVW-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-68" target="DpwGyqs9rQuABFekmKVW-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-68" value="打标新的tag&lt;br&gt;git tag -a v1.2.5" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1841" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-70" target="DpwGyqs9rQuABFekmKVW-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-70" value="master只需要合并修复分支的打包目录" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="274" y="1949" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-73" value="master上线" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="207" y="2073" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-75" target="DpwGyqs9rQuABFekmKVW-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-75" value="master合并修复分支所有内容" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="132" y="1949" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-77" value="只需修复本版本时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="274" y="1904" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-79" value="所有版本都需要修复时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="126" y="1904" width="138" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-82" target="DpwGyqs9rQuABFekmKVW-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-82" value="代码修复" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="1481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-84" target="DpwGyqs9rQuABFekmKVW-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-84" value="测试完成" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="1571" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-86" target="DpwGyqs9rQuABFekmKVW-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-86" value="打标新的tag&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;git tag -a v2.3.0" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="1661" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="DpwGyqs9rQuABFekmKVW-88" target="DpwGyqs9rQuABFekmKVW-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-88" value="master合并分支内容" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="1751" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpwGyqs9rQuABFekmKVW-90" value="master上线" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="1841" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
